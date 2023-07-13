@@ -69,7 +69,7 @@ export default {
             this.toggle_exclusive = 1;
         },
         prev() {
-            this.toggle_exclusive = 0;
+            this.toggle_exclusive = 0; 
         },
     },
 
