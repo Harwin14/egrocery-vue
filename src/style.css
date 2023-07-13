@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tomat:#FF6D59;
+  --light:#FFF0EE;
+  --ijo:#41AB55;
+  --abu:#ECF7EE
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.flexCenter {
+  @apply flex justify-center items-center
+}
+.flexBetween {
+  @apply flex justify-between items-center
+}
+.flexStart {
+  @apply flex justify-start items-center
+}
+.flexEvenly {
+  @apply flex justify-evenly items-center
+}
