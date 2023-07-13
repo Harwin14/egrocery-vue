@@ -86,7 +86,7 @@ export default {
     background-size: cover;
     background-position: center  bottom;
     background-repeat: no-repeat;
-}
+} 
 
 .form-group {
     position: relative;
