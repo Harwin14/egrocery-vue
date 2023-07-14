@@ -91,7 +91,7 @@ export default {
 .form-group {
     position: relative;
     margin-bottom: 20px;
-} 
+}  
 .form-input {
     width: 390px;
     padding: 12px 16px 12px 40px;
