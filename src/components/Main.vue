@@ -79,7 +79,7 @@ export default {
     },
 };
 </script>
-<style scoped>
+<style scoped> 
 .rounded-2xl {
     width: 100%;
     height: 100%;
